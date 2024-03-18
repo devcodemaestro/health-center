@@ -17,8 +17,6 @@
 - Git/GitHub
 - 공공API(보건소 API)
 
-git add .
-git commit
+## 프로젝트 빌드시 주의사항
 
-배포 1차
-git push origin main
+- Next.js 14 버전 Vercel 배포 적용 예외처리

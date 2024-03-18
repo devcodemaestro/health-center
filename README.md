@@ -2,7 +2,7 @@
 
 ## 배포
 
-- vercel
+- vercel(https://health-center-codemaestro.vercel.app/)
 
 ## 활용 기술
 

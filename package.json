@@ -20,7 +20,6 @@
     "swr": "^2.2.5"
   },
   "devDependencies": {
-    "@types/firebase": "^3.2.1",
     "@types/navermaps": "^3.7.4",
     "@types/node": "^20",
     "@types/react": "^18",

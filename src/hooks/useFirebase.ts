@@ -105,7 +105,7 @@ export const useFirebase = (transaction: string) => {
   const deleteDocument = async (id: string) => {
     dispatch({ type: 'isPending' });
     try {
-      // 어떤 Document 인가를 알려주는 메서드
+      // 어떤 FB Document 인가를 알려주는 메서드
       // FB 에서 아이디를 보내면 찾아주는 메서드 doc()
       const docRef = await deleteDoc(doc(colRef, id));
       dispatch({ type: 'deleteDoc' });
